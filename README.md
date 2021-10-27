@@ -1,12 +1,13 @@
 README for power-profiles-daemon-scripts
 
-Small scripts to take advantage of power-profiles-daemon on linux computers.
+Small scripts to take advantage of power-profiles-daemon on linux computers, meant to be run on power-related events such as plugging or unplugging the laptop charger.
 
-These scripts set the profile of power-profiles-daemon.
-Make them executable with 
-`sudo chmod +x powersave.sh && sudo chmod +x performance.sh`
+
+Make them executable by
+`cd power-profiles-daemon-scripts`
+`sudo chmod 555 *e.sh`
 
 To use automatically in KDE Plasma:
-go to power saving settings
-set the powersave.sh script to execute when battery power is detected
-set the performance.sh script to execute when charging is detected
+1. go to power saving settings
+2. set the power-save.sh script to execute when battery power is detected
+3. set the performance.sh script to execute when charging is detected
