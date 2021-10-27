@@ -1,9 +1,10 @@
-#README for powerprofilesdaemon-scripts
+README for powerprofilesdaemon-scripts
 
-Small scripts to take advantage of powerprofilesdaemon on linux computers.
+Small scripts to take advantage of power-profiles-daemon on linux computers.
 
 These scripts set the profile of powerprofilesdaemon.
-Make them executable with `sudo chmod +x powersave.sh && sudo chmod +x performance.sh`.
+Make them executable with 
+`sudo chmod +x powersave.sh && sudo chmod +x performance.sh`
 
 To use automatically in KDE Plasma:
 go to power saving settings
