@@ -2,7 +2,7 @@ README for powerprofilesdaemon-scripts
 
 Small scripts to take advantage of power-profiles-daemon on linux computers.
 
-These scripts set the profile of powerprofilesdaemon.
+These scripts set the profile of power-profiles-daemon.
 Make them executable with 
 `sudo chmod +x powersave.sh && sudo chmod +x performance.sh`
 
