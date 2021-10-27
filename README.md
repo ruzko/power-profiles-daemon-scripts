@@ -1,4 +1,4 @@
-README for powerprofilesdaemon-scripts
+README for power-profiles-daemon-scripts
 
 Small scripts to take advantage of power-profiles-daemon on linux computers.
 
