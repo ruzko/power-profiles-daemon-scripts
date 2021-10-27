@@ -1,0 +1,4 @@
+This file is a part of power-profiles-daemon-scripts, and must not be changed
+Made by github user with username ruzko.
+
+power-profiles-daemon-scripts is subject to the GPL v3 or later licence
